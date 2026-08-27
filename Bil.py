@@ -1,10 +1,10 @@
 class Bil():
-    def __init__(self):
-        self.owner = None
-        self.licenseNumber = ""
-        self.productionNumber = int()
-        self.productionYear = int()
-        self.weight = int()
-        self.enginepower = int()
+    def __init__(self, owner=None,licenseNumber="",productionNumber=int(),):
+        self.owner = 
+        self.licenseNumber = 
+        self.productionNumber = 
+        self.productionYear = 
+        self.weight = 
+        self.enginepower = 
 
-print("hello")
+#Instansvariabler, instansfunktioner(?) mathematically something or other, "assert" command defines a variable as some kind of value 
